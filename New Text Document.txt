@@ -1,0 +1,50 @@
+Last session
+=============
+--Subversion...repo
+--arch..
+--installed
+	..server..rhel6..'bitnami subversion' 
+		apache..82+svn(/repo-40. /subversion-40)
+	..dev.....wind..'subversion.msi'
+
+
+Repo is not loaded
+
+1.server connection
+2.repo and apache status..yes
+3.firewalls status
+
+
+scenarios
+----------
+1.create folder..make 10 files but commit 5 files!!
+
+
+scenarios..restore
+-------------------
+1.file rm in r6-->restore from r5
+2.current rev r5-->created-->commit to r8
+3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
